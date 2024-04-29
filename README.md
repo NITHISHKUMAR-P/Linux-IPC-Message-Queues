@@ -80,7 +80,7 @@ int main()
 	return 0;
 }
 ```
-## OUTPUT
+## OUTPUT:
 ![WhatsApp Image 2024-04-15 at 12 18 06_c03480ec](https://github.com/Sanjai147/Linux-IPC-Message-Queues/assets/162275632/6ace5952-2a67-4f25-80d7-d26fd15ee451)
 
 # RESULT:

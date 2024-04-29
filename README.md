@@ -1,5 +1,4 @@
-# Linux-IPC-Message-Queues
-Linux IPC-Message Queues
+# Ex.No: 4 Linux-IPC-Message-Queues
 
 # AIM:
 To write a C program that receives a message from message queue and display them
@@ -19,8 +18,6 @@ Write the C Program using Linux message queues API
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-DEVELOPED:R.sanjai RegNo:212223040180
-
 ## C program that receives a message from message queue and display them
 ```
 // C Program for Message Queue (Writer Process) 
